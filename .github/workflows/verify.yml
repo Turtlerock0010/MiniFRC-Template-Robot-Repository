@@ -66,5 +66,5 @@ jobs:
 
       - name: Verify and Compile Sketch
         run: |
-          # Crucial: Ensure 'ADD-VI/' matches the exact folder name containing your main .ino file
+          # Crucial: Ensure your repository name matches the exact folder name containing your main .ino file
           arduino-cli compile --fqbn esp32:esp32:esp32s3 build_dir/
