@@ -17,6 +17,7 @@ By creating a release, the repository would automatically start a Github Action 
 If you ever change anything in the `src` file -- merges, pushes, commits, etc -- the github repo will automatically verify the code within that folder to ensure it works properly! This is especially useful for parity between your on computer files and those on the repository!
 > [!NOTE]
 > Need help with custom and .ZIP libraries? Find me on the MiniFRC Discord or check out how I did it [here](https://github.com/Turtlerock0010/ADD-VI/blob/main/.github/workflows/verify.yml)!]
+
 > [!NOTE]
 > Verification times will take quite long for the first commit! For future commits it will get faster!
 
