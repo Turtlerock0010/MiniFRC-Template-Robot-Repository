@@ -50,6 +50,7 @@ jobs:
           # 1. Install standard public registry libraries
           arduino-cli lib install "Alfredo-NoU3"
           arduino-cli lib install "PestoLink-Receive"
+          arduino-cli lib install "HCSRO4_attachInterrupt"
 
 
       - name: Restructure and Flatten for Arduino
