@@ -16,7 +16,9 @@ By creating a release, the repository would automatically start a Github Action 
 ### Code Verification
 If you ever change anything in the `src` file -- merges, pushes, commits, etc -- the github repo will automatically verify the code within that folder to ensure it works properly! This is especially useful for parity between your on computer files and those on the repository!
 > [!NOTE]
-> Need help with custom and .ZIP libraries? Find me on the MiniFRC Discord or check out how I did it [here](https://github.com/Turtlerock0010/ADD-VI/blob/main/.github/workflows/verify.yml)!
+> Need help with custom and .ZIP libraries? Find me on the MiniFRC Discord or check out how I did it [here](https://github.com/Turtlerock0010/ADD-VI/blob/main/.github/workflows/verify.yml)!]
+> [!NOTE]
+> Verification times will take quite long for the first commit! For future commits it will get faster!
 
 ### Separate Files
 For code that isn't necessarily running on the robot but needs to be kept in the repository for reference or external usage, consider putting it into the `extras`  or `autos` folder! These are detached from the code verifications script so no errors will be thrown if you ever have any there!
