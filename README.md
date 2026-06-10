@@ -21,11 +21,19 @@ If you ever change anything in the `src` file -- merges, pushes, commits, etc --
 
 <img width="1410" height="683" alt="image" src="https://github.com/user-attachments/assets/abd9eb8a-2d82-4db1-9629-c76ad31c4e82" />
 
-> [!NOTE]
-> Need help with custom and .ZIP libraries? Find me on the MiniFRC Discord or check out how I did it [here](https://github.com/Turtlerock0010/ADD-VI/blob/main/.github/workflows/verify.yml)!
 
 > [!IMPORTANT]
 > Verification times will take quite long for the first commit! For future commits it will get faster!
+
+#### Supported Libraries
+For code verification, there are a couple of non-arduino libraries that have been added for your ease of use! This includes:
+- [Alfredo-NoU3](https://github.com/AlfredoSystems/Alfredo-NoU3) || By Alfredo Systems
+- [PestoLink-Recieve](https://github.com/AlfredoSystems/PestoLink-Receive) || By Alfredo Systems
+- [HCSRO4_attachInterrupt](https://github.com/joshua-8/HCSRO4_attachInterrupt) || By Joshua Phelps
+
+> [!NOTE]
+> Need help with custom and .ZIP libraries? Find me on the MiniFRC Discord or check out how I did it [here](https://github.com/Turtlerock0010/ADD-VI/blob/main/.github/workflows/verify.yml)!
+
 
 ### Separate Files
 For code that isn't necessarily running on the robot but needs to be kept in the repository for reference or external usage, consider putting it into the `extras`  or `autos` folder! These are detached from the code verifications script so no errors will be thrown if you ever have any there!
