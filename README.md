@@ -13,6 +13,8 @@ By creating a release, the repository would automatically start a Github Action 
 
 <img width="1248" height="516" alt="image" src="https://github.com/user-attachments/assets/1b568a09-f65b-4805-a631-eff41462b3c3" />
 
+> An example code release
+
 > [!TIP]
 > Need help understanding what a release is and how to do it? Take a look at [this tutorial](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)!
 
@@ -21,6 +23,7 @@ If you ever change anything in the `src` file -- merges, pushes, commits, etc --
 
 <img width="1410" height="683" alt="image" src="https://github.com/user-attachments/assets/abd9eb8a-2d82-4db1-9629-c76ad31c4e82" />
 
+> an example code push/commit
 
 > [!IMPORTANT]
 > Verification times will take quite long for the first commit! For future commits it will get faster!
@@ -37,6 +40,13 @@ For code verification, there are a couple of non-arduino libraries that have bee
 
 ### Separate Files
 For code that isn't necessarily running on the robot but needs to be kept in the repository for reference or external usage, consider putting it into the `extras`  or `autos` folder! These are detached from the code verifications script so no errors will be thrown if you ever have any there!
+
+### License
+This template repository is licensed under the MIT License to clearly define how anyone can copy and use this repository! Although, the license would copy over to your new repository, so feel free to change it! Just remember to change the copyright notice!
+
+<img width="295" height="151" alt="image" src="https://github.com/user-attachments/assets/b7a5bacf-24a3-420e-ae9f-23bca1bdff04" />
+
+> The copyright notice to change
 
 
 ## Feel free to change anything here in your template!!!
