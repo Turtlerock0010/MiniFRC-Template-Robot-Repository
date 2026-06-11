@@ -13,9 +13,9 @@
   * [Separate Files](#separate-files)
   * [License](#license)
 * [Tutorials](#tutorials) <--- Make sure to read this!!!
-  * [🚀 The Basics](https://github.com/Turtlerock0010/MiniFRC-Template-Robot-Repository/edit/main/README.md#-the-basics)
-  * [🤝 Collaboration](https://github.com/Turtlerock0010/MiniFRC-Template-Robot-Repository/edit/main/README.md#-collaboration)
-  * [🏔️ Extras & Advanced Concepts](https://github.com/Turtlerock0010/MiniFRC-Template-Robot-Repository/edit/main/README.md#%EF%B8%8F-extras--advanced-concepts)
+  * [🚀 The Basics](https://github.com/Turtlerock0010/MiniFRC-Template-Robot-Repository/tree/main/README.md#-the-basics)
+  * [🤝 Collaboration](https://github.com/Turtlerock0010/MiniFRC-Template-Robot-Repository/tree/main/README.md#-collaboration)
+  * [🏔️ Extras & Advanced Concepts](https://github.com/Turtlerock0010/MiniFRC-Template-Robot-Repository/tree/main/README.md#%EF%B8%8F-extras--advanced-concepts)
 
 ## Features
 With this repository, there is a couple of quality-of-life additions here to make collaboration, code copying, and structuring easier! Feel free to remove anything that you don't necessarily like or just have no use for it!
