@@ -1,5 +1,6 @@
 # MiniFRC Template Robot Repository
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/628e0b02-b3dc-4459-af49-e90902d1ad4b" />
+<img width="256" height="256" alt="MiniFRC Template Robot Repository Logo (2)" src="https://github.com/user-attachments/assets/951dfe7c-92c3-4923-ba1e-bb8c7e813269" />
+
 
 
 > Put in your team logo or remove it if you like!
